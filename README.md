@@ -25,7 +25,7 @@ A simple PHP CRUD (Create, Read, Update, Delete) application that allows users t
    cd crud_app_core_php
 
 
-**Clone the repository**
+2. **Install dependencies**
  ```bash
    composer require dompdf/dompdf
 
